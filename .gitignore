@@ -1,0 +1,36 @@
+# Unity default ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds*/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Packages/
+ProjectSettings/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Tüm Assets’i ignore et
+Assets/*
+
+# Ama Scripts klasörünü dahil et
+!Assets/Scripts/
+!Assets/Scripts/**
+
+# .gitignore dosyasını ve README'yi repo’ya dahil et
+!.gitignore
+!README.md
