@@ -3,6 +3,9 @@
 A Unity component that lets you connect and disconnect from a Vapi.ai assistant in real-time. It streams your microphone audio over WebSockets and plays back the assistant’s voice through an `AudioSource`. The connection can be toggled on or off using a key of your choice.
 
 ---
+Watch The Video: https://youtu.be/2JYbYb2YBY4?si=DrOngCo2-CZ_fGh8
+---
+
 
 ## Features
 
